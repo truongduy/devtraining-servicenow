@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 04:10:56</sys_created_on>
+        <sys_id>12b3966493230210b16330dcebba102e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_12b3966493230210b16330dcebba102e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 04:10:56</sys_updated_on>
+        <title><![CDATA[<p><strong><span style="font-size: 18pt;">Esse voluptate reprehenderit</span></strong></p>
+<p><span style="font-size: 10pt;">Et cupidatat tempor enim nulla laborum excepteur nulla. Aute ipsum laborum veniam elit officia enim enim adipisicing in pariatur elit labore non. Laboris sint ullamco Lorem elit eu cupidatat dolor excepteur anim nostrud ut laboris. Pariatur dolore in ea duis ut Lorem commodo reprehenderit irure aliquip ex. Reprehenderit adipisicing do esse consequat laborum occaecat amet ex et do eu laborum consequat enim. Quis est commodo labore esse Lorem adipisicing.</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=12b3966493230210b16330dcebba102e"/>
+</record_update>
